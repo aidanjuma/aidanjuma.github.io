@@ -3,21 +3,21 @@
   font-family: "DM Sans";
   font-style: normal;
   font-weight: 400;
-  src: url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.eot"); /* IE9 Compat Modes */
+  src: url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.eot"); /* IE9 Compat Modes */
   src: local(""),
-    url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.eot?#iefix")
+    url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.eot?#iefix")
       format("embedded-opentype"),
     /* IE6-IE8 */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.woff2")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.woff2")
       format("woff2"),
     /* Super Modern Browsers */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.woff")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.woff")
       format("woff"),
     /* Modern Browsers */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.ttf")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.ttf")
       format("truetype"),
     /* Safari, Android, iOS */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.svg#DMSans")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-regular.svg#DMSans")
       format("svg"); /* Legacy iOS */
 }
 
@@ -26,21 +26,21 @@
   font-family: "DM Sans";
   font-style: normal;
   font-weight: 500;
-  src: url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.eot"); /* IE9 Compat Modes */
+  src: url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.eot"); /* IE9 Compat Modes */
   src: local(""),
-    url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.eot?#iefix")
+    url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.eot?#iefix")
       format("embedded-opentype"),
     /* IE6-IE8 */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.woff2")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.woff2")
       format("woff2"),
     /* Super Modern Browsers */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.woff")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.woff")
       format("woff"),
     /* Modern Browsers */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.ttf")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.ttf")
       format("truetype"),
     /* Safari, Android, iOS */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.svg#DMSans")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-500.svg#DMSans")
       format("svg"); /* Legacy iOS */
 }
 
@@ -49,20 +49,20 @@
   font-family: "DM Sans";
   font-style: normal;
   font-weight: 700;
-  src: url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.eot"); /* IE9 Compat Modes */
+  src: url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.eot"); /* IE9 Compat Modes */
   src: local(""),
-    url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.eot?#iefix")
+    url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.eot?#iefix")
       format("embedded-opentype"),
     /* IE6-IE8 */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.woff2")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.woff2")
       format("woff2"),
     /* Super Modern Browsers */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.woff")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.woff")
       format("woff"),
     /* Modern Browsers */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.ttf")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.ttf")
       format("truetype"),
     /* Safari, Android, iOS */
-      url("../../aidanjuma.github.io/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.svg#DMSans")
+      url("https://aidanjuma.dev/static/fonts/dm-sans-v11-latin/dm-sans-v11-latin-700.svg#DMSans")
       format("svg"); /* Legacy iOS */
 }
