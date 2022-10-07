@@ -51,9 +51,20 @@ main .container {
   box-shadow: 0px 0px 20px 4px rgba(195, 235, 253, 0.2);
 }
 
+.pill-divider {
+  width: 20%;
+  height: 4px;
+  border-radius: 9999px;
+  background-color: #2d333b;
+}
+
 /* Screen Width >= 768px Avatar Size */
 @media screen and (min-width: 768px) {
   .avatar {
     width: 256px;
+  }
+
+  #name h1 {
+    font-size: 36px;
   }
 }
