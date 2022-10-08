@@ -14,6 +14,11 @@ img {
   max-height: 100%;
 }
 
+li {
+  padding-inline-start: 1ch;
+  list-style-position: outside;
+}
+
 /* Start: Tailwind-like CSS */
 .flex {
   display: flex;
