@@ -52,7 +52,7 @@ main .container {
 
 .socials {
   display: flex;
-  width: 20vw;
+  width: 35vw;
   justify-content: space-between;
   margin: 1em 0em;
 }
@@ -82,6 +82,14 @@ main .container {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
+}
+
+/* Screen Width >= 344px */
+@media screen and (min-width: 344px) {
+  .socials {
+    width: 25vw;
+  }
 }
 
 /* Screen Width >= 768px */
